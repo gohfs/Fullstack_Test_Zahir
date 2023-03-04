@@ -1,0 +1,12 @@
+{
+  "editor.fontSize": 17,
+  "editor.tabSize": 3,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.indentSize": "tabSize",
+  "[go]": {
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "golang.go"
+  },
+  "gopls": { "ui.semanticTokens": true }
+}
